@@ -1,3 +1,3 @@
-https://api.whatsapp.com/send/?phone=8801917115512&text&app_absent=0
-https://api.whatsapp.com/send/?phone=67572974448&text&app_absent=0
-https://api.whatsapp.com/send/?phone=67571165395&text&app_absent=0
+https://line.me/ti/p/AmBK3wVj9g
+ttps://line.me/ti/p/9e2aMSYPnb
+https://line.me/ti/p/7HB2NBP9SY
